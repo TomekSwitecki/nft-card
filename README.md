@@ -13,7 +13,7 @@ I created it to improve my frontend skills 😃
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://tomekswitecki.github.io/nft-card/)
 
 ## Authors
 
@@ -22,6 +22,7 @@ I created it to improve my frontend skills 😃
 - GitHub: [@TomekSwitecki](https://github.com/TomekSwitecki)
 - Twitter: [@COCOstudio9](https://twitter.com/COCOstudio9)
 - Dribble: [Tomek Świtecki](https://dribbble.com/Switecki)
+- Frontend Mentor:[@TomekSwitecki](https://www.frontendmentor.io/profile/TomekSwitecki)
 
 ## 🤝 Contributing
 
