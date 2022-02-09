@@ -1,6 +1,6 @@
 # QR component
 
-> This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
+> This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
 ![screenshot](./images/screenshot.png)
 
@@ -21,7 +21,7 @@ I created it to improve my frontend skills 😃
 
 - GitHub: [@TomekSwitecki](https://github.com/TomekSwitecki)
 - Twitter: [@COCOstudio9](https://twitter.com/COCOstudio9)
-
+- Dribble: [Tomek Świtecki](https://dribbble.com/Switecki)
 
 ## 🤝 Contributing
 
